@@ -1,0 +1,29 @@
+2024-08-25 14:33:25.871 +05:30 [INF] This is serilog logging
+2024-08-25 14:36:39.827 +05:30 [INF] This is serilog logging
+2024-08-25 15:16:47.303 +05:30 [INF] This is serilog logging
+2024-08-25 16:17:20.080 +05:30 [INF] This is serilog logging
+2024-08-25 16:17:20.468 +05:30 [INF] Now listening on: http://localhost:5131
+2024-08-25 16:17:20.525 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-25 16:17:20.526 +05:30 [INF] Hosting environment: Development
+2024-08-25 16:17:20.527 +05:30 [INF] Content root path: C:\Users\ankit\source\repos\WebApplication5\WebApplication5
+2024-08-25 16:17:20.905 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-08-25 16:17:20.923 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2024-08-25 16:17:37.021 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-25 16:17:37.033 +05:30 [INF] WeatherForeCast Called
+2024-08-25 16:21:49.303 +05:30 [INF] This is serilog logging
+2024-08-25 16:21:49.713 +05:30 [INF] Now listening on: http://localhost:5131
+2024-08-25 16:21:49.752 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-25 16:21:49.754 +05:30 [INF] Hosting environment: Development
+2024-08-25 16:21:49.755 +05:30 [INF] Content root path: C:\Users\ankit\source\repos\WebApplication5\WebApplication5
+2024-08-25 16:21:50.477 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-08-25 16:21:50.491 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
+2024-08-25 16:23:07.927 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-08-25 16:23:07.939 +05:30 [INF] WeatherForeCast Called
+2024-08-25 16:24:43.985 +05:30 [INF] This is serilog logging
+2024-08-25 16:24:44.109 +05:30 [INF] Starting Host
+2024-08-25 16:24:44.347 +05:30 [INF] Now listening on: http://localhost:5131
+2024-08-25 16:24:44.386 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-25 16:24:44.387 +05:30 [INF] Hosting environment: Development
+2024-08-25 16:24:44.388 +05:30 [INF] Content root path: C:\Users\ankit\source\repos\WebApplication5\WebApplication5
+2024-08-25 16:24:45.075 +05:30 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-08-25 16:24:45.093 +05:30 [DBG] Response markup was updated to include Browser Link script injection.
